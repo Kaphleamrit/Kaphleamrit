@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Amrit Kafle
+### Hi there 👋
 [![Header](https://kaphleamrit.github.io/Kaphleamrit/IMG.png "Header")](https://some-url.dev/)
 <h1>something in here </h1>
 <img src = "
