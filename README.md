@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Amrit Kafle
-[![Header](https://raw.githubusercontent.com/MartinHeinz/kaphleamrit/kaphleamrit/IMG.png "Header")](https://some-url.dev/)]
+[![Header](https://kaphleamrit.github.io/Kaphleamrit/IMG.jpg "Header")](https://some-url.dev/)
 <h1>something in here </h1>
+<img src = "
 
 <!--
 **Kaphleamrit/Kaphleamrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
