@@ -25,6 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaphleamrit&show_icons=true&locale=en" alt="kaphleamrit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurabh2121&" alt="shaurabh2121" /></p>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
