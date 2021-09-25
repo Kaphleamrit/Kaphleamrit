@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amrit Kaphle</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaphleamrit&label=Profile%20views&color=0e75b6&style=flat" alt="Amrit Kafle" /> </p>
+
 - 🌱 I’m currently learning **Algorithms**
 
 - 👯 I’m looking to collaborate on **Android or web projects**
