@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaphleamrit&show_icons=true&locale=en&layout=compact" alt="kaphleamrit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaphleamrit&show_icons=true&locale=en" alt="kaphleamrit" /></p>
+
 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
