@@ -2,15 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaphleamrit&label=Profile%20views&color=0e75b6&style=flat" alt="Amrit Kafle" /> </p>
 
-- 🌱 I’m currently learning **DevSecOps**
-
-- 👯 I’m looking to collaborate on **Cloud and DevOps projects**
+- 🌱 I’m currently learning **DevSecOps** and **ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaphleamrit](https://github.com/Kaphleamrit)
 
 - 📫 How to reach me **amritkaphle12@gmail.com**
-
-## Visit My Protfolio Page : [Click Here](https://amritkafle.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
