@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrit Kafle</h1>
 <h3 align="center"> cloud and devops Enthusiast </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaphleamrit&label=Profile%20views&color=0e75b6&style=flat" alt="Amrit Kafle" /> </p>
-
 - 🌱 I’m currently preparing for **AWS Certified Solutions Architect – Associate**
 
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Kaphleamrit)
