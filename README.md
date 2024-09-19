@@ -9,7 +9,7 @@
 
 - 🔍 I’m actively looking for opportunities in **AWS**, **DevOps**, **SRE**, and **Platform Engineering** roles.
 
-- 📫 How to reach me: **amritkaphle12@gmail.com**
+- 📫 How to reach me: **kaphleyy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
