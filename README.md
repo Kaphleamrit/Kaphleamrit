@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amrit Kafle</h1>
-<h3 align="center"> cloud and devops Enthusiast </h3>
 
-- 🌱 I’m currently preparing for **AWS Certified Solutions Architect – Associate**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Kaphleamrit)
-
-- 🔍 I’m actively looking for opportunities in **AWS**, **DevOps**, **SRE**, and **Platform Engineering** roles.
 
 - 📫 How to reach me: **kaphleyy@gmail.com**
 
