@@ -1,6 +1,7 @@
+<p align="center">
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me: **kaphleyy@gmail.com**
-- 
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/amrit-kaphle-4948aa194" target="_blank">
